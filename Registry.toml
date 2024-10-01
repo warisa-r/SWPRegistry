@@ -4,3 +4,4 @@ repo = "https://github.com/warisa-r/SWPRegistry.git"
 description = "My registry for an SWP project"
 
 [packages]
+a75b99cc-be56-4638-99bc-d89fa43b9ca1 = { name = "ShockwaveDetection", path = "S/ShockwaveDetection" }
