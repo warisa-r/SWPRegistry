@@ -1,0 +1,6 @@
+name = "SWPRegistry"
+uuid = "912938a2-aad1-4419-9dd4-32a10dcac77a"
+repo = "https://github.com/warisa-r/SWPRegistry.git"
+description = "My registry for an SWP project"
+
+[packages]
